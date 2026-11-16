@@ -151,10 +151,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
 
 #EXTINF:-1,Disney Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+https://smaplcig.dpdns.org/hehe/india_disney_channel_a01q/channel.m3u8
 
 #EXTINF:-1,Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
