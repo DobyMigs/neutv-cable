@@ -40,6 +40,7 @@ Metro Channel
 Asian Food Network
 TLC
 Travel Channel
+Disney XD
 Nickelodeon
 Aniplus
 Animax
