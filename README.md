@@ -66,7 +66,7 @@ Bloomberg Asia
 Al Jazeera
 BBC News
 DW News
-Animal Planet
+Animal Show
 Discovery Channel
 Discovery Asia
 Knowledge Channel
